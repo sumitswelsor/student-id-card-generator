@@ -49,8 +49,9 @@ Make sure you have **Python 3.8+** installed. Then install dependencies:
 pip install pillow qrcode python-barcode
 
 ```
-run collegeid.py once dependecy is installed, output would be generated as ID_front and ID_back file.
+run collegeid.py once dependencies are installed, output would be generated as ID_front and ID_back png file.
 
 
 Special Instructions:
+
 Photo size would look better with size in multiple of 160*200.
